@@ -1,14 +1,14 @@
 {
-	"name": "cakedc/search",
+	"name": "fusic/search",
 	"type": "cakephp-plugin",
 	"description": "The Search plugin allows you to make any kind of data searchable, enabling you to implement a robust searching rapidly.",
-	"homepage": "http://github.com/CakeDC/search",
+	"homepage": "http://github.com/fusic/search",
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Cake Development Corporation",
-			"email": "team@cakedc.com",
-			"homepage": "http://cakedc.com"
+			"name": "Fusic Co., Ltd Junki Ito",
+			"email": "ito@fusic.co.jp",
+			"homepage": "https://fusic.co.jp/"
 		}
 	],
 	"require": {
