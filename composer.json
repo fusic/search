@@ -1,9 +1,9 @@
 {
-	"name": "cakedc/search",
-	"description": "Search Plugin for CakePHP",
+	"name": "fusic/search",
+	"description": "Search Plugin for CakePHP fork by cakedc/search",
 	"type": "cakephp-plugin",
 	"keywords": ["cakephp", "search", "prg", "post-redirect-get", "filter"],
-	"homepage": "http://github.com/CakeDC/search",
+	"homepage": "https://fusic.co.jp/",
 	"license": "MIT",
 	"authors": [
 		{
